@@ -1,5 +1,5 @@
 # Crimsoned
-An infinite runner made in unity3D.  
+An infinite runner made in Unity3D.  
 Terrain is made from blocks.  
 Every block you contact turns crimson.  
 A crimsoned block has a 1/2 chance to dissapear.  
