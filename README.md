@@ -1,7 +1,10 @@
 # Crimsoned
-a infinite runner made in unity3D.  
+An infinite runner made in unity3D.  
+Terrain is made from blocks.
+Every block you contact turns crimson. 
+A crimsoned block has a 1/2 chance to dissapear.
+The rows are randomized and reused making the game progressivly more difficult.
 Use arrow keys and spacebar.  
-Every block you contact turns crimson.  
 Your score is (seconds survived * cubes crimsoned)
 
 ##### TODO:
