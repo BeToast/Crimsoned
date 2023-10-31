@@ -1,4 +1,8 @@
 # Crimsoned
+
+To run, extract the currentExport.zip and run the .exe in a windows enviroment.
+working with Wine on Linux
+
 An infinite runner made in Unity3D.  
 Terrain is made from blocks.  
 Every block you contact turns crimson.  
